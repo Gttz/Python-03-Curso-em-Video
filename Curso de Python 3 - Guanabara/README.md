@@ -3,6 +3,8 @@
 
 Exercícios e códigos de aula do **CURSO DE PYTHON 3**, fornecido pelo prof. *Gustavo Guanabara* no canal **Curso em Vídeo**.
 
+Este curso foi realizado em: **27/09/2019 - 17/01/2020**
+
 ## Recursos
 
 * [Mundo 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Nesta Playlist foi ensinada os Fundamentos (Módulos, if/else, strings, etc).
